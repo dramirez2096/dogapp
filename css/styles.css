@@ -13,4 +13,9 @@
   border: 1px dashed blue;
   height: 100vh;
 }
+
+.home-section {
+  background-color: #0061ff;
+  background-image: linear-gradient(150deg, transparent, #00e2ff);
+}
 /*# sourceMappingURL=styles.css.map */
