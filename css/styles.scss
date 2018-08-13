@@ -3,14 +3,34 @@
     padding: 0px;
 }
 .container{
-    border: 1px dashed red;
+    // border: 1px dashed red;
     display: grid;
 }
 .page-section{
-    border: 1px dashed blue;
+    // border: 1px dashed blue;
     height: 100vh;
 }
 .home-section{
     background-color: #0061ff;
     background-image: linear-gradient(150deg, transparent, #00e2ff);
+}
+.section-one{
+    background-color: #b993d6;
+    background-image: linear-gradient(150deg, transparent, #8ca6db);
+}
+.section-two{
+    background-color: #ee0979;
+    background-image: linear-gradient(150deg, transparent, #ff6a00);
+}
+.section-three{
+    background-color: #ffe000;
+    background-image: linear-gradient(150deg, transparent, #799f0c);
+}
+.section-four{
+    background-color: #4a00e0;
+    background-image: linear-gradient(150deg, transparent, #8e2de2);
+}
+.section-five{
+    background-color: #e94057;
+    background-image: linear-gradient(150deg, transparent, #f27121);
 }
