@@ -1,4 +1,16 @@
-h1 {
-  color: red;
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  border: 1px dashed red;
+  display: -ms-grid;
+  display: grid;
+}
+
+.page-section {
+  border: 1px dashed blue;
+  height: 100vh;
 }
 /*# sourceMappingURL=styles.css.map */
